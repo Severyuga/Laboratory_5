@@ -8,3 +8,9 @@ GitHub - oseledets/nla2021: The repository for Skolech NLA2021 github.com
 [Ссылка]
 GitHub - oseledets/nla2021: The repository for Skolech NLA2021
 https://github.com/oseledets/nla2021
+
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
