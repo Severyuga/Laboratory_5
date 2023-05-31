@@ -15,3 +15,8 @@ https://github.com/oseledets/nla2021
 | Программирование   | 8     | 4   |
 | ОС    | 6   | 6     |
 | Проектная деятельность| 8           | 7         |
+
+
+
+[Image alt](https://github.com/{Severyuga}/{Laboratory_5}/raw/{branch}/{path}/8.jpg)
+
