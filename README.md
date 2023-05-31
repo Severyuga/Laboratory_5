@@ -18,5 +18,4 @@ https://github.com/oseledets/nla2021
 
 
 
-[Image alt](https://github.com/{Severyuga}/{Laboratory_5}/raw/{branch}/{path}/8.jpg)
 
