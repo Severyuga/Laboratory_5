@@ -10,8 +10,8 @@ GitHub - oseledets/nla2021: The repository for Skolech NLA2021
 https://github.com/oseledets/nla2021
 
 
-| Предмет | Center-aligned | Right-aligned |
+| Предмет |Кол-во лаб |готово |
 | :---         |     :---:      |          ---: |
-| Программирование   | git status     | git status    |
-| Математика           | git diff       | git diff      |
-| Конкретная математика| git            | git           |
+| Программирование   | 8     | 4   |
+| ОС    | 6   | 6     |
+| Проектная деятельность| 8           | 7         |
