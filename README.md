@@ -14,3 +14,4 @@ https://github.com/oseledets/nla2021
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
+| git d        | git            | git           |
